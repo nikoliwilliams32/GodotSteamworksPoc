@@ -1,0 +1,15 @@
+D:\github\GameTemplate\.godot\mono\temp\bin\Debug\steam_api64.dll
+D:\github\GameTemplate\.godot\mono\temp\bin\Debug\GameTemplate.deps.json
+D:\github\GameTemplate\.godot\mono\temp\bin\Debug\GameTemplate.dll
+D:\github\GameTemplate\.godot\mono\temp\bin\Debug\GameTemplate.pdb
+D:\github\GameTemplate\.godot\mono\temp\bin\Debug\Steamworks.NET.dll
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.csproj.AssemblyReference.cache
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.AssemblyInfoInputs.cache
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.AssemblyInfo.cs
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.csproj.CoreCompileInputs.cache
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemp.170031AA.Up2Date
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.dll
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\refint\GameTemplate.dll
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.pdb
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\ref\GameTemplate.dll

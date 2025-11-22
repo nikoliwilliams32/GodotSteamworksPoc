@@ -1,6 +1,6 @@
 using Godot;
 
-public class Menu : Spatial {
+public partial class Menu : Node3D {
   // Declare member variables here. Examples:
   // private int a = 2;
   // private string b = "text";
