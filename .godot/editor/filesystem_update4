@@ -3,3 +3,6 @@ res://omnisharp.json
 res://autoloads/SteamworksHelper.cs
 res://Steamworks/Windows-x64/steam_appid.txt
 res://scenes/menu/Menu.cs
+res://scenes/menu/SteamNetworkingTest.cs
+res://scenes/menu/Menu.tscn
+res://scenes/menu/SteamTest.cs

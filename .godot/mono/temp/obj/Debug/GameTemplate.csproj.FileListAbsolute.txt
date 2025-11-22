@@ -13,3 +13,4 @@ D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.dll
 D:\github\GameTemplate\.godot\mono\temp\obj\Debug\refint\GameTemplate.dll
 D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.pdb
 D:\github\GameTemplate\.godot\mono\temp\obj\Debug\ref\GameTemplate.dll
+D:\github\GameTemplate\.godot\mono\temp\obj\Debug\GameTemplate.sourcelink.json
